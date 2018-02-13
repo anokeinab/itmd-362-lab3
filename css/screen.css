@@ -195,17 +195,17 @@ html {
   padding-top: 1em;
   padding-left: 1em;
   padding-right: 1em;
-  font-size: 1em; /* 22px */
+  font-size: 1em; 
   line-height: 2.225em;
-  font-family: Helvetica, Arial, sans-serif;
-  background-color: #81F7D8;
+  font-family: "Times New Roman", Times, serif;
+  background-color: #RRGGBB;
 }
 
 form{
   padding-top: 1em;
   padding-left: 1em;
   padding-right: 1em;
-  background-color: #ECF8E0;
+  background-color: #A9A9A9;
 }
 
 form ol,
