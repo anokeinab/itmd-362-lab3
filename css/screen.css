@@ -263,7 +263,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-    opacity: 1;
+    background-color:#00008B;
 }
 
 div {
