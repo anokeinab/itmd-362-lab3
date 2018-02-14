@@ -198,7 +198,6 @@ body {
   font-size: 1em; /* 22px */
   line-height: 2.225em;
   font-family: Helvetica, Arial, sans-serif;
-  background-color: #RRGGBB;
 }
 
 @media only screen and (min-width: 992px) {
